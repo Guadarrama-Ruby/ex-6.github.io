@@ -1,0 +1,13 @@
+table, td, p, input{
+    border: solid black;
+}
+
+table, p {
+    display: flex;
+    place-content: center;
+    margin: 0 37% 0 37%;
+}
+
+body {
+    text-align: center;
+}
